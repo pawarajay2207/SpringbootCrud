@@ -22,47 +22,47 @@ Get All Categories (with Pagination)
 
 GET http://localhost:8080/api/categories?page=0
 
-Screenshot 2024-10-24 074822
+
 
 Create New Category
 
-POST http://localhost:8080/api/categories Screenshot 2024-10-24 074958
+POST http://localhost:8080/api/categories 
 
 Get Category by ID
 
-GET http://localhost:8080/api/categories/{id} Screenshot 2024-10-24 075052
+GET http://localhost:8080/api/categories/{id} 
 
 Update Category by ID
 
-PUT http://localhost:8080/api/categories/{id} Screenshot 2024-10-24 081033
+PUT http://localhost:8080/api/categories/{id} 
 
 Delete Category by ID
 
-DELETE http://localhost:8080/api/categories/{id} Screenshot 2024-10-24 081148
+DELETE http://localhost:8080/api/categories/{id} 
 
 Product CRUD Operations
 Get All Products (with Pagination)
 
-GET http://localhost:8080/api/products?page=2 Screenshot 2024-10-24 081236
+GET http://localhost:8080/api/products?page=2 
 
 Create New Product
 
-POST http://localhost:8080/api/products Screenshot 2024-10-24 081645
+POST http://localhost:8080/api/products 
 
 Get Product by ID
 
 GET http://localhost:8080/api/products/{id}
-Screenshot 2024-10-24 081742
+
 
 Update Product by ID
 
-PUT http://localhost:8080/api/products/{id} Screenshot 2024-10-24 082007
+PUT http://localhost:8080/api/products/{id} 
 
 Delete Product by ID
 
-DELETE http://localhost:8080/api/products/{id} Screenshot 2024-10-24 082118
+DELETE http://localhost:8080/api/products/{id} 
 
-6.**RDBMS MySql Screenshot 2024-10-24 082640
+6.**RDBMS MySql 
 
 Getting Started
 Follow these steps to set up the application on your local machine:
@@ -74,7 +74,7 @@ MySQL Server
 Installation
 Clone the repository:
 
-git clone https://github.com/its-vaishu2405/QuickCrud.git
+git clone https://github.com/pawarajay2207/QuickCrud.git
 
 Navigate to the project directory:
 
